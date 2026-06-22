@@ -1,0 +1,1 @@
+from .flash import flash_attention\nfrom .paged import paged_attention\n__version__ = "1.0.0"\n
